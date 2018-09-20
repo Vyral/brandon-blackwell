@@ -1,47 +1,49 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
-description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
-show_custom_links: false
+title: Salt Lake City Real Estate Video Blog with Brandon Blackwell
+description: Our mission at Blackwell Realty Group is to be your best resource for Salt Lake City real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Blackwell Realty Group, your professional Salt Lake City Real Estate Agents.
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Home Valuation
+    url: http://brandon.blackwellrealtygroup.com/sell.php
+  - title: Home Search
+    url: https://www.blackwellrealtygroup.com/index.php?rtype=grid
 
 client:
-  name:
+  name: Brandon Blackwell
   title:
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    Brandon began his real estate career in 2001. Over the years, Brandon has gained a lot of experience and knowledge of the real estate market and doing so he so is able represent his clients in the best possible way, from knowledge of local neighborhoods, lending programs and how to negotiate the best possible deal for his clients. Brandon enjoys meeting, spending time with his clients and help them achieve their real estate goals. As a result, from his hard work, honesty and dedication to his clients his business has been built off of referrals and repeat clients.
+  market: Salt Lake City
+  brand: Blackwell Realty Group
   brokerage:
-  address:
-  phone:
+  address: 324 South 400 West<br>Salt Lake City, UT
+  phone: 801-893-9366
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: 	info@BlackwellRealtyGroup.com
+  url: https://www.BlackwellRealtyGroup.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://brandon.blackwellrealtygroup.com/sell.php
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://www.blackwellrealtygroup.com/index.php?rtype=grid
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
+    CTA_title: "What’s Your Salt Lake City Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://brandon.blackwellrealtygroup.com/sell.php
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+    CTA_title2: "Looking for a Salt Lake City Home?"
+    CTA_text2: "Search the entire MLS for your Salt Lake City home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://www.blackwellrealtygroup.com/index.php?rtype=grid
 
 lender:
   show_section: false
@@ -56,38 +58,38 @@ lender:
   url: http://eyegoop.com
 
 socials:
-  review_sm_icons: false
-  facebook_url:
+  review_sm_icons: true
+  facebook_url: https://www.facebook.com/BRGsellshomes
   linkedin_url:
   gplus_url:
-  youtube_url:
-  twitter_url:
-  instagram_url:
+  youtube_url: https://www.youtube.com/channel/UCuq40NOH6DagkjGYLvvfXRg
+  twitter_url: https://www.twitter.com/bblackwellhomes
+  instagram_url: https://instagram.com/blackwellrealtygroup
   pinterest_url:
-  zillow_url:
+  zillow_url: https://www.zillow.com/profile/Brandon-Blackwell/
   trulia_url:
   yelp_url:
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'Salt Lake City Real Estate Podcast with Brandon Blackwell'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Salt Lake City Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Blackwell Realty Group - your professional Salt Lake City Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Salt Lake City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: 'Brandon Blackwell'
 
 images:
-  client_headshot_path: /img/headshot.jpg
+  client_headshot_path: /img/headshot.png
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  # hero_text: Salt Lake City Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
+  brand_color: '#6f93b6'
   theme_color: '#999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
@@ -100,7 +102,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: '#ffffff'
 
 buttons:
   button_radius_number: 0
