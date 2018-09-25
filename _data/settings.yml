@@ -4,7 +4,7 @@ description: Our mission at Blackwell Realty Group is to be your best resource f
 show_custom_links: true
 custom_links:
   - title: Home Valuation
-    url: http://brandon.blackwellrealtygroup.com/sell.php
+    url: mailto:info@blackwellrealtygroup.com
   - title: Home Search
     url: https://www.blackwellrealtygroup.com/map_search/results/a/1/#/?city=all&style=all&middle_school=all&baths_min=all&school_district=all&beds_min=all&area_min=all&list_price_min=50000&county=all&list_price_max=all&elementary_school=all&lot_size_min=all&type=res&type=con&per_page=20&high_school=all&year_built_min=all&short_sale=all&page=1
 
@@ -27,7 +27,7 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://brandon.blackwellrealtygroup.com/sell.php
+  first_CTA_URL: mailto:info@blackwellrealtygroup.com
   second_CTA_text: Home Search
   second_CTA_URL: https://www.blackwellrealtygroup.com/map_search/results/a/1/#/?city=all&style=all&middle_school=all&baths_min=all&school_district=all&beds_min=all&area_min=all&list_price_min=50000&county=all&list_price_max=all&elementary_school=all&lot_size_min=all&type=res&type=con&per_page=20&high_school=all&year_built_min=all&short_sale=all&page=1
 
@@ -36,7 +36,7 @@ sidebar_CTA:
     CTA_title: "What’s Your Salt Lake City Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: http://brandon.blackwellrealtygroup.com/sell.php
+    CTA_url: mailto:info@blackwellrealtygroup.com
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
