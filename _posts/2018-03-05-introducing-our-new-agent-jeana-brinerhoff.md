@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Introducing Our New Agent, Jeana Brinerhoff'
-date: 2018-03-05 00:00:00
+date: 2018-03-05 17:59:00
 tags:
   - Real Estate
 excerpt: 'Today, I’d like to introduce you to our newest team member, Jeana Brinerhoff.'
@@ -18,7 +18,7 @@ youtube_code: GfZl5VfoOjo
 
 {% include youtube.html %}
 
-Today, I’d like to introduce you to our newest team member, Jeana Brinerhoff.
+<p style="text-align: center;"><em>Today, I’d like to introduce you to our newest team member, Jeana Brinerhoff.</em></p>
 
 Today, I just want to take a minute to introduce you to our newest team member, Jeana Brinerhoff.&nbsp;
 
