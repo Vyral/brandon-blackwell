@@ -20,7 +20,7 @@ youtube_code: eO9rNQxborg
 
 {% include youtube.html %}
 
-These are five home renovations that you should really think twice about before doing, since they won’t bring you much of a return.
+<p style="text-align: center;"><em>These are five home renovations that you should really think twice about before doing, since they won’t bring you much of a return.</em></p>
 
 It’s always fun to talk about the best home renovation projects to do, but it’s just as important to discuss the worst of them. Today I’ll walk you through five of those projects and tell you why they’re not likely worth your time or money.
 
