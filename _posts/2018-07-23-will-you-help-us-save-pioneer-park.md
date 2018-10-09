@@ -19,7 +19,7 @@ youtube_code: uKsldXwbJCw
 
 {% include youtube.html %}
 
-Pioneer Park has faced a negative community reputation throughout much of its history. David Garbett is trying to fix that.
+<p style="text-align: center;"><em>Pioneer Park has faced a negative community reputation throughout much of its history. David Garbett is trying to fix that.</em></p>
 
 I’m here today with David Garbett, the executive director of the Pioneer Park Coalition, to discuss Pioneer Park—where it’s from, where it's today, and where it’s going in the future.
 
