@@ -20,7 +20,7 @@ youtube_code: 3PhmXFsuCdc
 
 {% include youtube.html %}
 
-Have you ever wanted to try your hand at real estate investing? If so, I’d like to recommend a great option that requires very little work.
+<p style="text-align: center;"><em>Have you ever wanted to try your hand at real estate investing? If so, I’d like to recommend a great option that requires very little work.</em></p>
 
 Did you know that you could invest in a condo that operates like a hotel?
 
