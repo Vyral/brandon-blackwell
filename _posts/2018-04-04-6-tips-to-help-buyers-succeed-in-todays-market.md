@@ -20,7 +20,7 @@ youtube_code: TFGvwJ2kC-0
 
 {% include youtube.html %}
 
-Today, I have six tips for buyers to use to get a leg up in this competitive market.
+<p style="text-align: center;"><em>Today, I have six tips for buyers to use to get a leg up in this competitive market.</em></p>
 
 I may be new to the Blackwell Team, but I’m not new to real estate. I’ve been selling real estate full-time for three years. Today, I want to lend you my expertise to provide some tips for the buyers who are on the market or are looking to enter it soon.
 
