@@ -18,7 +18,7 @@ youtube_code: hs_31ai-fE8
 
 {% include youtube.html %}
 
-When the cold temperatures hit, your energy bills go up. Here’s how to keep them from going up too much.
+<p style="text-align: center;"><em>When the cold temperatures hit, your energy bills go up. Here’s how to keep them from going up too much.</em></p>
 
 As we head into the fall and winter months, I wanted to bring you a few tips to help keep your energy bills down as the weather gets colder:
 
