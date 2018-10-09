@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Top 5 Tips for Homebuyers in Today’s Market
-date: 2018-10-09 18:06:27
+date: 2018-05-17 18:06:27
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -18,7 +18,7 @@ youtube_code: 2EoSe4F2vdQ
 
 {% include youtube.html %}
 
-Are you planning on buying a home in this competitive market? Today, we have five tips to help you succeed and purchase a home.
+<p style="text-align: center;"><em>Are you planning on buying a home in this competitive market? Today, we have five tips to help you succeed and purchase a home.</em></p>
 
 We’ve put together five great tips for new homebuyers that will help up your chances of getting into your dream home.
 
