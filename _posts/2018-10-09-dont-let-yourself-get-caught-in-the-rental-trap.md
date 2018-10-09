@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don't Let Yourself Get Caught in the Rental Trap
-date: 2018-10-09 17:36:15
+date: 2018-03-03 10:00:15
 tags:
   - Home Buyer Tips
 excerpt: >-
