@@ -21,7 +21,7 @@ youtube_code: gZ7Gjit3O5c
 
 If a home search is in your future for 2018, there are five lessons we can take from last year’s market that will help you achieve your real estate goals.
 
-Want to sell your home? Get a FREE home value report<br>Want to buy a home? Search all homes for sale
+Want to sell your home? [Get a FREE home value report](mailto:brandon@blackwellrealtygroup.com){: target="_blank"}<br>Want to buy a home? [Search all homes for sale](https://www.blackwellrealtygroup.com/map_search/results/a/1/#/?city=all&amp;style=all&amp;middle_school=all&amp;baths_min=all&amp;school_district=all&amp;beds_min=all&amp;area_min=all&amp;list_price_min=50000&amp;county=all&amp;list_price_max=all&amp;elementary_school=all&amp;lot_size_min=all&amp;type=res&amp;type=con&amp;per_page=20&amp;high_school=all&amp;year_built_min=all&amp;short_sale=all&amp;page=1){: target="_blank"}
 
 There were five main lessons we learned in 2017 that can help us make smarter home buying decisions in 2018.&nbsp;
 
