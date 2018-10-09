@@ -20,7 +20,7 @@ youtube_code: 7Q1xm9f4m7c
 
 {% include youtube.html %}
 
-There are three things you need to understand right now if you are thinking of making the transition between renting and homeownership.
+<p style="text-align: center;"><em>There are three things you need to understand right now if you are thinking of making the transition between renting and homeownership.</em></p>
 
 Right now, rents are on the rise. Don’t let yourself fall into the rental trap. Today, I would like to go over three points for you to consider in relation to the rental market.
 
