@@ -27,7 +27,7 @@ There were five main lessons we learned in 2017 that can help us make smarter ho
 
 **1. Homes are still affordable.**&nbsp;Of course, certain factors depend on the market you’re in, but homes right now are still affordable overall.&nbsp;
 
-**2. Homes are selling quickly and are in short****supply.&nbsp;**Make sure that you work with an agent who will assist you in putting forward the best offer possible.&nbsp;
+**2. Homes are selling quickly and are in short&nbsp;****supply.&nbsp;**Make sure that you work with an agent who will assist you in putting forward the best offer possible.&nbsp;
 
 **3. House flippers are out in full force.**&nbsp;Make sure you put your highest and best offer forward first. House flippers tend to intensify the bidding process and raise the purchase price.&nbsp;
 
