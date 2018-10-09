@@ -20,7 +20,7 @@ youtube_code: yRDQR8ADnMQ
 
 {% include youtube.html %}
 
-As a Utah homeowner, it is important that you have your home tested for radon and, if necessary, have a radon mitigation system installed on your property
+<p style="text-align: center;"><em>As a Utah homeowner, it is important that you have your home tested for radon and, if necessary, have a radon mitigation system installed on your property</em></p>
 
 Do you know if your home has high levels of radon?
 
