@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Tips to Help You Decide Whether It Is Better to Buy or Rent
-date: 2018-10-09 18:22:30
+date: 2018-07-18 18:22:30
 tags:
 excerpt: >-
   If you are caught up in the debate about whether it is better to buy a home or
@@ -17,7 +17,7 @@ youtube_code: D8timk5jg-I
 
 {% include youtube.html %}
 
-If you are caught up in the debate about whether it is better to buy a home or continue renting, these five tips might help you reach a decision.
+<p style="text-align: center;"><em>If you are caught up in the debate about whether it is better to buy a home or continue renting, these five tips might help you reach a decision.</em></p>
 
 I have five tips you can use to help settle the debate about whether you should buy a home or continue to rent.
 
