@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rents in Utah are Rising
-date: 2018-10-09 17:11:36
+date: 2018-01-31 11:28:36
 tags:
 excerpt:
 enclosure:
