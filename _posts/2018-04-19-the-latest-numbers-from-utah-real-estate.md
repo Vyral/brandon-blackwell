@@ -18,7 +18,7 @@ youtube_code: '-fJbD5xyhNg'
 
 {% include youtube.html %}
 
-The Utah real estate market continues to be strong in 2018. Here’s what we’ve been keeping an eye on.
+<p style="text-align: center;"><em>The Utah real estate market continues to be strong in 2018. Here’s what we’ve been keeping an eye on.</em></p>
 
 The latest numbers are in. I get asked almost daily what I think about the Utah market, so today, I wanted to **walk through some year-to-date numbers comparing 2017 to 2018 and what's happening now.**
 
