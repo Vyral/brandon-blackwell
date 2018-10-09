@@ -20,7 +20,7 @@ youtube_code: HkdeGiC_MRc
 
 {% include youtube.html %}
 
-What is happening to home affordability in the marketplace, and how will it affect buyers and sellers? Here is what you need to know.
+<p style="text-align: center;"><em>What is happening to home affordability in the marketplace, and how will it affect buyers and sellers? Here is what you need to know.</em></p>
 
 What does the current drop in home affordability mean for you?
 
