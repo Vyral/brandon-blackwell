@@ -17,7 +17,7 @@ youtube_code: 5d23j7BYy6I
 
 {% include youtube.html %}
 
-When it comes time to list, there are nine common but crucial mistakes all sellers must avoid.
+<p style="text-align: center;"><em>When it comes time to list, there are nine common but crucial mistakes all sellers must avoid.</em></p>
 
 When it comes time to list, there are a nine critical mistakes all sellers must avoid. If left unaddressed, these easy-to-make errors are a surefire way to sabotage your own sale.&nbsp;
 
