@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sellers: Are You At Risk of Sabotaging Your Own Home Sale?'
-date: 2018-10-09 18:30:47
+date: 2018-08-20 18:30:47
 tags:
 excerpt: >-
   When it comes time to list, there are nine common but crucial mistakes all
