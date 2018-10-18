@@ -20,7 +20,7 @@ youtube_code: mdiUEo5_hJY
 
 {% include youtube.html %}
 
-There are several things you can do to improve the air quality of your microenvironment and protect yourself against air pollution.
+<p style="text-align: center;"><em>There are several things you can do to improve the air quality of your microenvironment and protect yourself against air pollution.</em></p>
 
 Today I’m joined by Daniel Mendoza, assistant research professor of atmospheric sciences at the University of Utah, for a quick Q&A about our air quality along the Wasatch Front.&nbsp;
 
