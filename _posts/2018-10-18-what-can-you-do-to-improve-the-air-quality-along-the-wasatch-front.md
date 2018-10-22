@@ -44,7 +44,7 @@ There are many small behavioral changes you can make. Idling in your car while i
 
 Even though air quality is a large-scale issue, you can still manage between 50% and 80% of your microenvironment, or what you and your neighbors are breathing. A great tip for this is replacing your old lawnmower with a newer or electric lawn mower.
 
-If you’d like to know more about the air quality in your area or what you can do to improve it, you can visit the University of Utah’s website [http://air.utah.gov.](http://air.utah.gov){: target="_blank"} The Division of Air Quality also offers an app called UtahAir that’s available to download for both <a href="https://play.google.com/store/apps/details?id=org.autosciencetech.airquality&hl=en" target="_blank">Android</a> and <a href="https://itunes.apple.com/us/app/utahair/id722452416" target="_blank">IOS</a> phones. This app tells you with some degree of accuracy what the air quality is of the station that’s closest to you.&nbsp;
+If you’d like to know more about the air quality in your area or what you can do to improve it, you can visit the University of Utah’s website [http://air.utah.edu.](http://air.utah.edu){: target="_blank"} The Division of Air Quality also offers an app called UtahAir that’s available to download for both <a href="https://play.google.com/store/apps/details?id=org.autosciencetech.airquality&hl=en" target="_blank">Android</a> and <a href="https://itunes.apple.com/us/app/utahair/id722452416" target="_blank">IOS</a> phones. This app tells you with some degree of accuracy what the air quality is of the station that’s closest to you.&nbsp;
 
 If you have any more questions for Daniel, you can email him at [daniel.mendoza@utah.edu](mailto:daniel.mendoza@utah.edu){: target="_blank"}.
 
