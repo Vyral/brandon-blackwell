@@ -19,7 +19,7 @@ youtube_code: '-nnY8IG8io4'
 
 {% include youtube.html %}
 
-<p style-"text-align: center;"><em>A lot of people tend to think that certain myths about real estate are true. Here are the actual truths behind these myths.</em></p>
+<p style="text-align: center;"><em>A lot of people tend to think that certain myths about real estate are true. Here are the actual truths behind these myths.</em></p>
 
 There are plenty of myths floating around about our real estate market. Some are making comparisons to our market from 10 years ago, while others are just plain wrong. Today we’re trying to clear the air by explaining the truths behind a few of the most common real estate myths in our market:
 
